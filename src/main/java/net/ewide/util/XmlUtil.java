@@ -21,7 +21,7 @@ import org.w3c.dom.Document;
  * ClassName:XmlUtil <br/>
  * Function: TODO ADD FUNCTION. <br/>
  * Reason:	 TODO ADD REASON. <br/>
- * Date:     2016-07-09 下午1:57:32 <br/>
+ * Date:     2016-07-09 下午11:57:32 <br/>
  * @author   Alex(yaohao@gmail.com)
  * @version  
  * @since    JDK 1.6
